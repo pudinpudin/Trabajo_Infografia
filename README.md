@@ -1,5 +1,5 @@
 # Trabajo_Infografia
-Trabajo Final
+
 <em><h3>Estudiantes:<br>
 
 Ruben David Gonzalez Grajales-2220231105<br>
